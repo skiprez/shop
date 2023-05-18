@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div></div>
+    
 </body>
 <script src="app.js"></script>
 </html>
