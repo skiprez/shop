@@ -12,7 +12,7 @@
     <div class="header">
         <h1 class="text">Internetowy sklep z Warzywami i Owocami</h1>
         <input type="button" value="Zaloguj">
-        <div class="cart"></div>
+        <div class="cart"><img src="" class="cart_img"></div>
     </div>
     <div class="footer"></div>
 </body>
