@@ -9,8 +9,11 @@
     <title>Sklep z Warzywami i Owocami</title>
 </head>
 <body>
-    <div class="header"></div>
-    
+    <div class="header">
+        <h1 class="text">Internetowy sklep z Warzywami i Owocami</h1>
+        <input type="button" value="Zaloguj">
+        <div class="cart"></div>
+    </div>
     <div class="footer"></div>
 </body>
 <script src="app.js"></script>
